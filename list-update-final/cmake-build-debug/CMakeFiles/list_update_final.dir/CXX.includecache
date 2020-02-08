@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anisa/Desktop/TUM_courses/Thesis/list-update/list-update-final/main.cpp
+iostream
+-
+fstream
+-
+random
+-
+utility
+-
+vector
+-
+random
+-
+map
+-
+algorithm
+-
+cstring
+-
+climits
+-
+unordered_set
+-
+omp.h
+-
+sys/types.h
+-
+dirent.h
+-
+boost/filesystem.hpp
+-
+
